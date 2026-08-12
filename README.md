@@ -1,1 +1,1 @@
-# Hack-Club-Membership-Card
+# Hack Club Membership Card
